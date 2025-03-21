@@ -35,4 +35,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 .
 .
 .
-Made with ❤️ by Mitesh Bhoite
+Made with ❤️ by EpicMyt
