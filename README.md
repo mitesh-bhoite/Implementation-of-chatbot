@@ -32,7 +32,7 @@ If using a machine learning model, follow these steps:
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 .
-.
+
 .
 .
 Made with ❤️ by EpicMythh
