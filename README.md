@@ -1,7 +1,7 @@
 # Chatbot Implementation using NLP
 
 ## Project Description
-This project is an implementation of a chatbot using Natural Language Processing (NLP). The chatbot is designed to understand user inputs, process them using NLP techniques, and generate appropriate responses. The primary objective of this project is to create an interactive chatbot capable of handling various user queries effectively.
+This project is an implementation of a chatbot using Natural Language Processing (NLP). The chatbot is designed to understand user inputs, process them using NLP techniques and generate appropriate responses. The primary objective of this project is to create an interactive chatbot capable of handling various user queries effectively.
 
 ## Features
 - **User-friendly Interface**: Simple and interactive UI for conversation.
