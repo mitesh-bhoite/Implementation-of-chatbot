@@ -9,7 +9,7 @@ This project is an implementation of a chatbot using Natural Language Processing
 
 ## Technologies Used
 - **Programming Language**: Python
-- **Libraries & Frameworks**:
+- **Libraries & Frameworks**
   - NLTK (Natural Language Toolkit)
   - spaCy
   - TensorFlow/Keras (if using deep learning models)
